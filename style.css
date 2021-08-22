@@ -43,7 +43,7 @@ nav{
   width: 100%;
   
  
-  background: url("images/1 (10).jpg") no-repeat;
+  background: url("Images/1 (10).jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -59,7 +59,7 @@ nav{
   text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
    border: 10px solid transparent;
   padding: 15px;
-  border-image: url(images/background.png) 30 round;
+  border-image: url(Images/background.png) 30 round;
   width: 90%;
   height: 100%;
   margin-top: 200px;
@@ -416,7 +416,7 @@ section .button button:hover{
 /* Contact Me CSS */
 .contact{
   background: #F0F8FF;
-  background-image: url("images/9.jpg");
+  background-image: url("Images/9.jpg");
   background-repeat: no-repeat;
   background-size: 830px;
   object-fit: cover; 
@@ -430,31 +430,31 @@ section .button button:hover{
   {
     0%
     {
-background-image: url("images/12.png");
+background-image: url("Images/12.png");
     }
     16%
     {
-     background-image: url("images/11.jpg"); 
+     background-image: url("Images/11.jpg"); 
     }
     24%
     {
-     background-image: url("images/10.jpg"); 
+     background-image: url("Images/10.jpg"); 
     }
     
     
     
     56%
     {
-     background-image: url("images/8.jpg"); 
+     background-image: url("Images/8.jpg"); 
     }
     
     75%
     {
-     background-image: url("images/2.jpg"); 
+     background-image: url("Images/2.jpg"); 
     }
     87%
     {
-     background-image: url("images/3.jpg"); 
+     background-image: url("Images/3.jpg"); 
     }
     
   }
@@ -599,7 +599,7 @@ footer .text span a:hover{
 .content .boxes1{
   display: flex;
   border-style: solid;
-  background-image: url("images/1 (10).jpg");
+  background-image: url("Images/1 (10).jpg");
   background-color: black;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -629,7 +629,7 @@ footer .text span a:hover{
   height: 50px;
   width: 50px;
   background: #4070f4;
-  background-image: url("images/background.png");
+  background-image: url("Images/background.png");
   border-radius: 50%;
   border-style: solid;
   border-color: rgb(3, 243, 211);
@@ -640,7 +640,7 @@ footer .text span a:hover{
   transition: all 0.4s ease;
 }
 .content .boxes1 .boxs:hover .icon{
-  background-image: url("images/ASTU.jpg");
+  background-image: url("Images/ASTU.jpg");
   border-style: none;
   background-size: 52px;
   color: #4070f4;
