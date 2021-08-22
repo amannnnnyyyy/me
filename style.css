@@ -472,7 +472,7 @@ background-image: url("Images/12.png");
 }
 .contact .topic,#were
 {
-  background-color: rgb(255, 225, 234);
+  
   color: rgb(0, 0, 0);
   text-shadow: 1px 1px rgb(33, 182, 45);
   text-overflow: clip;
